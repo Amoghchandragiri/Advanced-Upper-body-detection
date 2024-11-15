@@ -25,6 +25,5 @@ This project offers a real-time solution for body measurement using advanced pos
 - The application captures video from a webcam and uses MediaPipe's pose estimation to identify body landmarks.
 - Measurements between specific landmarks (hips, shoulders, etc.) are calculated.
 - Users are prompted to input real measurements for comparison purposes.
-- Data is saved in a local folder for further analysis.
 
 
