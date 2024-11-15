@@ -1,5 +1,5 @@
 
-# Real-time Body Measurement using Pose Estimation and Deep Learning
+# Real-time Upper body Measurement
 
 ## Project Overview
 This project offers a real-time solution for body measurement using advanced pose estimation techniques and deep learning. It leverages the power of MediaPipe and OpenCV to accurately measure various body parts such as hips, shoulders, upper body. This tool can be used in various domains including fitness, fashion, and health monitoring.
